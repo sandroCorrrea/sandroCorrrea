@@ -3,7 +3,6 @@
 <ul>
   <li>✔ Hoje estou cursando o 4º Período de Ciência da computação.</li>
   <li>😊 Trabalho com a linguagem Node.js.</li>
-  <li>😎 Desenvolvedor Full-Stack</li>
   <li>👍 Dele/Ele</li>
 </ul>
 <hr>
