@@ -3,7 +3,7 @@
 <ul>
   <li>✔ Hoje estou cursando o 5º Período de Ciência da computação.</li>
   <li>😊 Trabalho como Desenvolvedor de Sistemas com a linguagem PHP.</li>
-  <li>😊 Nas horas livres gosto de me aprofundar mais na linguagem Node.js</li>
+  <li💕 Nas horas livres gosto de me aprofundar mais na linguagem Node.js</li>
   <li>👍 Dele/Ele</li>
 </ul>
 <hr>
