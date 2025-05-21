@@ -2,9 +2,6 @@
 <hr>
 <ul>
   <li>✔ Graduado em Ciência da computação.</li>
-  <li>😊 Trabalho como Desenvolvedor de Sistemas com a linguagem PHP.</li>
-  <li>💕 Nas horas livres gosto de me aprofundar em novas tecnologias back-end</li>
-  <li>👍 Dele/Ele</li>
 </ul>
 <hr>
  <div>
